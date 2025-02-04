@@ -1,1 +1,1 @@
-
+A little experiment. A multicolor eurorack blank panel, printed on a Bambu P1S with AMS. Just drop the 4 .STLs into your slicer, import as one object and assign the colors. Also included the Illustrator file. Feel free to experiment and turn your own ideas into beautiful panels!
